@@ -9,6 +9,16 @@
     #header .mobile-menu-btn{
         display: none;
     }
+
+    .s-full-width,
+    .s-col-full{
+        width: 100% !important;
+    }
+
+    .s-mt-8{
+        margin-top: 8px !important;
+    }
+
 }
 /* Mobile */
 @media(max-width:740px){
@@ -68,6 +78,14 @@
     .place-item{
         width: 100%;
         margin-bottom: 16px;
+    }
+
+    .place-buy-btn{
+        font-size: 18px;
+    }
+
+    .contact-form .form-control{
+        font-size: 16px;
     }
 
 }
