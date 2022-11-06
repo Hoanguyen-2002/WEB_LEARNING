@@ -1,4 +1,3 @@
-# WEB_LEARNING
 # Fullstack Interviews
 
 ## Tuyển tập câu hỏi phỏng vấn cho lập trình web.
